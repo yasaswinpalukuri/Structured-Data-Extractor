@@ -1,0 +1,34 @@
+{
+  "document_type": "job_description",
+  "data": {
+    "extracted_at": "2026-07-17T02:42:55.549867+00:00",
+    "confidence_score": 85,
+    "document_type": "job_description",
+    "company_name": "TechNova Inc",
+    "role_title": "Senior Data Engineer",
+    "location": null,
+    "remote_type": "Remote",
+    "salary_min": 110000,
+    "salary_max": 140000,
+    "salary_currency": "CAD",
+    "experience_years_min": 5,
+    "experience_years_max": null,
+    "required_skills": [
+      "Python",
+      "SQL",
+      "Spark",
+      "AWS"
+    ],
+    "nice_to_have_skills": [],
+    "education_requirement": null,
+    "employment_type": "Full-time",
+    "industry": "Technology",
+    "key_responsibilities": [
+      "Build ETL pipelines",
+      "Mentor juniors"
+    ],
+    "application_deadline": "March 31 2025",
+    "_extraction_latency_ms": 11179.0
+  },
+  "doc_hash": "1f168040e2c0a562"
+}
